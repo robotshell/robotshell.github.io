@@ -9,8 +9,6 @@ permalink:        pretty
 title:            Robotshell
 tagline:          ''
 description:      'Cybersecurity Auditor & Penetration Tester, Cybersecurity Professor and Bug Bounty Researcher'
-url:              http://hyde.getpoole.com
-baseurl:          /
 
 author:
   name:           'Robotshell'
