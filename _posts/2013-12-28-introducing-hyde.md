@@ -13,7 +13,7 @@ title: Introducing myself
 * [MagicRecon: herramienta para la recolección de datos y la búsqueda de vulnerabilidades en un objetivo](https://www.elladodelmal.com/2021/06/magicrecon-herramienta-para-la.html)
 
 ### Exploits & Dorks
-* [Google Dork: inurl:/wp-content/uploads/ "phpMyAdmin SQL Dump"](https://www.exploit-db.com/ghdb/7003)
+* Google Dork: [inurl:/wp-content/uploads/ "phpMyAdmin SQL Dump"](https://www.exploit-db.com/ghdb/7003)
 
 ### Events & Conferences
 * Conference: EkoParty 2021 - MagicRecon, cómo maximizar el proceso de reconocimiento y recolección de datos sobre un objetivo
