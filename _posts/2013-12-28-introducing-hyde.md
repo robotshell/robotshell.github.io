@@ -26,7 +26,7 @@ title: Introducing myself
 * [HackerOne](https://hackerone.com/robotshelld)
 * Bugv
 
-### Bug Bounty accounts
+### Halls of Fame
 * [SonicHealthcare](https://www.sonichealthcare.com/privacy-and-security/vulnerability-disclosure-policy/)
 * [Deutsche Telekom](https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/details/acknowledgements-358300)
 
