@@ -22,6 +22,13 @@ title: Introducing myself
 ### Bug Bounty accounts
 
 * [OpenBugBounty](https://www.openbugbounty.org/researchers/Robotshell/) 
+* [BugCrowd](https://bugcrowd.com/Robotshell)
+* [HackerOne](https://hackerone.com/robotshelld)
+* Bugv
+
+### Bug Bounty accounts
+* [SonicHealthcare](https://www.sonichealthcare.com/privacy-and-security/vulnerability-disclosure-policy/)
+* [Deutsche Telekom](https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/details/acknowledgements-358300)
 
 ### Writeups
 Coming soon...
