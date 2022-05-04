@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Introducing myself
+title: My portfolio
 ---
+### Certifications
+* Web Application Penetration Tester eXtreme (eWPTXv2)
 
 ### Tools
 * [MagicRecon](https://github.com/robotshell/magicRecon): MagicRecon is a powerful shell script to maximize the recon and data collection process of an objective and finding common vulnerabilities, all this saving the results obtained in an organized way in directories and with various formats. 
@@ -18,13 +20,13 @@ title: Introducing myself
 ### Events & Conferences
 * Conference: EkoParty 2021 - MagicRecon, cómo maximizar el proceso de reconocimiento y recolección de datos sobre un objetivo
 * [Conference: Bitup Alicante 2021 - MagicRecon, cómo maximizar el proceso de reconocimiento y recolección de datos sobre un objetivo](https://www.youtube.com/watch?v=HRrHFmqMGz4)  
+* Conference: I Jornada Ciberseguridad CIPFP Batoi - Introduction to Red Teaming (https://www.youtube.com/watch?v=RBist48Mkhs&t=5s)
 
 ### Bug Bounty accounts
 
 * [OpenBugBounty](https://www.openbugbounty.org/researchers/Robotshell/) 
 * [BugCrowd](https://bugcrowd.com/Robotshell)
 * [HackerOne](https://hackerone.com/robotshelld)
-* Bugv
 
 ### Halls of Fame
 * [SonicHealthcare](https://www.sonichealthcare.com/privacy-and-security/vulnerability-disclosure-policy/)
