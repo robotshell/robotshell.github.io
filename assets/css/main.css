@@ -5,8 +5,8 @@
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
   .logo {
-    width: 100px; /* Ajusta el tamaño de la imagen según sea necesario */
-    height: 100px;
+    width: 500px; /* Ajusta el tamaño de la imagen según sea necesario */
+    height: 500px;
     border-radius: 50%; /* Hace que la imagen sea circular */
     object-fit: cover; /* Asegura que la imagen se ajuste al círculo sin deformarse */
     border: 2px solid #fff; /* Opcional: añade un borde blanco */
