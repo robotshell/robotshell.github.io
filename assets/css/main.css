@@ -3516,7 +3516,7 @@ sub,sup{
 }
 
 li{
- font-size:15px
+ font-size:15px;
  text-align: left;
 }
 .tech{
