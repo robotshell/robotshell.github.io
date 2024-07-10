@@ -3514,6 +3514,10 @@ sub,sup{
         width:80%
     }
 }
+
+li{
+ font-size:15px
+}
 .tech{
     margin:10px
 }
