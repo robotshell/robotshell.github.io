@@ -3504,6 +3504,16 @@ sub,sup{
         width:80%
     }
 }
+#contributions {
+    width:90%;
+    margin:0 auto;
+    max-width:960px
+}
+@media only screen and (min-width:550px){
+    #contributions {
+        width:80%
+    }
+}
 .tech{
     margin:10px
 }
