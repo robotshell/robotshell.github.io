@@ -3507,7 +3507,7 @@ sub,sup{
 #contributions {
     width:90%;
     margin:0 auto;
-    max-width:960px
+    max-width:1200px
 }
 @media only screen and (min-width:550px){
     #contributions {
@@ -3517,6 +3517,7 @@ sub,sup{
 
 li{
  font-size:15px
+ text-align: left;
 }
 .tech{
     margin:10px
