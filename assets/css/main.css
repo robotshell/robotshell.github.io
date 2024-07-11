@@ -3516,6 +3516,10 @@ sub,sup{
     }
 }
 
+.auxiliar{
+  margin-top: -50px;
+}
+
 #contributions {
     width:90%;
     margin:0 auto;
