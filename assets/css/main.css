@@ -147,6 +147,13 @@ summary{
      border: 2px solid #fff;
     /* Opcional: añade un borde blanco */
 }
+
+ .insignia {
+     width: 100px;
+    /* Ajusta el tamaño de la imagen según sea necesario */
+     height: 100px;
+}
+
  @-webkit-keyframes fa-spin{
     0%{
         -webkit-transform:rotate(0deg);
