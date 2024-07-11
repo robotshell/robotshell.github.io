@@ -138,20 +138,15 @@ summary{
 /*! * Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome * License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License) */
  .logo {
      width: 300px;
-    /* Ajusta el tamaño de la imagen según sea necesario */
      height: 300px;
      border-radius: 50%;
-    /* Hace que la imagen sea circular */
      object-fit: cover;
-    /* Asegura que la imagen se ajuste al círculo sin deformarse */
      border: 2px solid #fff;
-    /* Opcional: añade un borde blanco */
 }
 
  .insignia {
-     width: 100px;
-    /* Ajusta el tamaño de la imagen según sea necesario */
-     height: 100px;
+     width: 150px;
+     height: 150px;
 }
 
  @-webkit-keyframes fa-spin{
