@@ -147,6 +147,11 @@ summary{
  .insignia {
      width: 150px;
      height: 150px;
+     margin-top: 50px;
+}
+
+ .titulo_award {
+     margin-top: -20px;
 }
 
  @-webkit-keyframes fa-spin{
