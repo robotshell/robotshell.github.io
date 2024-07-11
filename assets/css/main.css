@@ -3573,7 +3573,8 @@ li{
     justify-content:space-between;
     width:90%;
     max-width:960px;
-    margin:0 auto
+    margin:0 auto;
+    margin-top: -80px;
 }
 
 #projects{
