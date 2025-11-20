@@ -1,15 +1,106 @@
- <div class="user-details">
-  <h1> Certifications </h1>
-</div>
-<div class="user auxiliar">
-    <div class="tech">
-     <img src="/assets/img/insignia.png" alt="Logo" class="insignia">
-      <h2 class="titulo_award">Best speaker IAAC-CON 1º Edición</h2>
-      <p>Best IAAC-CON 1st Edition speaker with: Nuclei - Fast and Customizable Vulnerability Scanner</p>
+ <style>
+.cert-container {
+  max-width: 900px;
+  margin: 40px auto;
+}
+
+.cert-title {
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
+.cert-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.cert-card {
+  background: #ffffff0d;
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #ffffff22;
+  backdrop-filter: blur(5px);
+  transition: 0.25s;
+}
+
+.cert-card:hover {
+  transform: translateY(-5px);
+  border-color: #ff371e;
+}
+
+.cert-name {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.cert-icon {
+  font-size: 28px;
+  margin-bottom: 10px;
+  color: #ff371e;
+  display: inline-block;
+}
+</style>
+
+<div class="cert-container">
+
+  <h1 class="cert-title">Certifications</h1>
+
+  <div class="cert-grid">
+
+    <div class="cert-card">
+      <div class="cert-icon">🏆</div>
+      <div class="cert-name">OffSec Web Expert (OSWE)</div>
     </div>
-    <div class="tech">
-     <img src="/assets/img/insignia.png" alt="Logo" class="insignia">
-      <h2 class="titulo_award">Best speaker IAAC-CON 2º Edición</h2>
-      <p>Best IAAC-CON 2st Edition speaker with: Flipper Zero: Unleashing its power</p>
+
+    <div class="cert-card">
+      <div class="cert-icon">🛡️</div>
+      <div class="cert-name">Web Application Penetration Tester eXtreme (eWPTXv2)</div>
     </div>
+
+    <div class="cert-card">
+      <div class="cert-icon">🔐</div>
+      <div class="cert-name">Sophos Certified Architect</div>
+    </div>
+
+    <div class="cert-card">
+      <div class="cert-icon">🔧</div>
+      <div class="cert-name">Sophos Certified Engineer</div>
+    </div>
+
+    <div class="cert-card">
+      <div class="cert-icon">🧬</div>
+      <div class="cert-name">Bitdefender Certified Technical Specialist</div>
+    </div>
+
+    <div class="cert-card">
+      <div class="cert-icon">⚙️</div>
+      <div class="cert-name">Worry-Free Detection and Response (XDR) Technical Certificate</div>
+    </div>
+
+    <div class="cert-card">
+      <div class="cert-icon">📄</div>
+      <div class="cert-name">Certificado SealPath - Certificación Técnica Avanzada</div>
+    </div>
+
+    <div class="cert-card">
+      <div class="cert-icon">📘</div>
+      <div class="cert-name">Certificado SealPath - Pre-venta</div>
+    </div>
+
+    <div class="cert-card">
+      <div class="cert-icon">🛰️</div>
+      <div class="cert-name">Cyber Security Foundation Professional Certificate - CSFPC</div>
+    </div>
+
+    <div class="cert-card">
+      <div class="cert-icon">🧠</div>
+      <div class="cert-name">Foundations of Operationalizing MITRE ATT&CK</div>
+    </div>
+
+  </div>
+
 </div>
